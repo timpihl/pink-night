@@ -11,31 +11,31 @@
 
 ### Overview
 
-![Theme - Overview](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-overview.png)
+![Theme - Overview](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-overviewa.png)
 
 ### Map
 
-![Theme - Map](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-map.png)
+![Theme - Map](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-mapa.png)
 
 ### Logbook
 
-![Theme - Logbook](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-logbook.png)
+![Theme - Logbook](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-logbooka.png)
 
 ### History
 
-![Theme - History](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-history.png)
+![Theme - History](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-historya.png)
 
 ### Developer Tools
 
-![Theme - Developer Tools](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-developer-tools.png)
+![Theme - Developer Tools](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-developer-toolsa.png)
 
 ### Configuration
 
-![Theme - Configuration](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-configuration.png)
+![Theme - Configuration](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-configurationa.png)
 
 ### Profile
 
-![Theme - Profile](https://raw.githubusercontent.com/home-assistant-community-themes/template/master/docs/theme-profile.png)
+![Theme - Profile](https://raw.githubusercontent.com/timpihl/pink_night/master/docs/theme-profilea.png)
 
 ## Installation
 
