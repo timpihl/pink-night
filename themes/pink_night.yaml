@@ -2,7 +2,7 @@
 #
 # Pink Night
 #
-pink night:
+Pink Night:
   #accent-color: "hsl(var(--huesat) 30%)"
   accent-color: "#FF558F"
   base-hue: "220"
