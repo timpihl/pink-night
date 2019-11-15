@@ -1,11 +1,11 @@
-# Template Theme
+# Pink Night
 
 [![Build Status](https://www.travis-ci.org/home-assistant-community-themes/template.svg?branch=master)](https://www.travis-ci.org/home-assistant-community-themes/template)
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
 <a href="https://www.buymeacoffee.com/maartenpaauw" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-> The Template Theme by Maarten Paauw
+> Pink Night theme for Home Assistant
 
 ## Screenshots
 
@@ -51,8 +51,8 @@ frontend:
 ### HACS
 
 1. Go to the Community Store.
-2. Search for `Template`.
-3. Navigate to `Template` theme.
+2. Search for `Pink Night`.
+3. Navigate to `Pink Night` theme.
 4. Press `Install`.
 6. Go to services and trigger the `frontend.reload_themes` service.
 
@@ -62,12 +62,12 @@ Clone this repository in your existing (or create it) `themes/` folder.
 
 ```bash
 cd themes/
-git clone https://github.com/home-assistant-community-themes/template.git
+git clone https://github.com/timpihl/pink_night.git
 ```
 
 Or using submodules:
 
 ```bash
 cd themes/
-git submodule add https://github.com/home-assistant-community-themes/template.git
+git submodule add https://github.com/timpihl/pink_night.git
 ```
