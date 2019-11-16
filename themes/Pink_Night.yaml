@@ -3,7 +3,6 @@
 # Pink Night
 #
 Pink Night:
-  #accent-color: "hsl(var(--huesat) 30%)"
   accent-color: "#FF558F"
   base-hue: "220"
   base-sat: "5%"
@@ -18,7 +17,6 @@ Pink Night:
   label-badge-red: "hsl(20, 50%, 25%)"
   label-badge-text-color: "var(--primary-text-color)"
   light-divider-opacity: "0"
-  #light-primary-color: "hsl(var(--huesat) 30%)"
   light-primary-color: "#FF558F"
   lumo-base-color: "var(--medium-grey-color)"
   lumo-body-text-color: "var(--primary-text-color)"
@@ -57,7 +55,6 @@ Pink Night:
   paper-item-icon_-_color: "var(--paper-item-icon-color)"
   paper-item-selected_-_background-color: "hsla(0, 0%, 0%, 0.2)"
   paper-item-selected_-_color: "hsl(var(--huesat) 20%)"
-  #paper-listbox-background-color: "hsl(var(--huesat) 16%)"
   paper-listbox-background-color: "#131313"
   paper-listbox-color: "hsl(var(--huesat) 50%)"
   paper-slider-active-color: "hsl(var(--base-hue), 90%, 50%)"
@@ -74,11 +71,9 @@ Pink Night:
   paper-toggle-button-checked-button-color: "hsl(var(--base-hue), 90%, 50%)"
   paper-toggle-button-unchecked-bar-color: "hsl(var(--huesat) 5%)"
   paper-toggle-button-unchecked-button-color: "hsl(var(--huesat) 25%)"
-  #primary-background-color: "hsl(var(--huesat) 16%)"
   primary-background-color: "#131313"
   primary-color: "#FF558F"
   primary-text-color: "hsl(var(--huesat) 90%)"
-  #secondary-background-color: "hsl(var(--huesat) 16%)"
   secondary-background-color: "#050505"
   secondary-text-color: "hsl(var(--huesat) 80%)"
   shadow-elevation-16dp_-_box-shadow: "0px 0px 0px 0px hsl(var(--huesat) 25%)"
@@ -89,3 +84,17 @@ Pink Night:
   table-row-alternative-background-color: "hsl(var(--huesat) 10%)"
   table-row-background-color: "hsl(var(--huesat) 12%)"
   text-primary-color: "hsl(var(--huesat) 90%)"
+
+# CCH Styling
+
+  cch-background: center / cover no-repeat url("/local/images/bg1.jpg")
+  cch-all-buttons-color: white
+  cch-button-color-menu: white
+  cch-button-color-notifications: white
+  cch-button-color-voice: white
+  cch-button-color-options: white
+  cch-all-tabs-color: white
+  cch-tab-indicator-color: white
+  cch-active-tab-color: "#00FFFF"
+  cch-notify-indicator-color: "#00FFFF"
+  cch-notify-text-color: white
