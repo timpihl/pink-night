@@ -3,6 +3,10 @@
 # Pink Night
 #
 Pink Night:
+
+# Theme background
+  lovelace-background: center / cover no-repeat url("/local/images/bg1.jpg")
+
   accent-color: "#FF558F"
   base-hue: "220"
   base-sat: "5%"
@@ -21,11 +25,11 @@ Pink Night:
   lumo-base-color: "var(--medium-grey-color)"
   lumo-body-text-color: "var(--primary-text-color)"
   lumo-header-text-color: "var(--lumo-body-text-color)"
-  lumo-primary-color: "var(--primary-color)"
+  lumo-primary-color: "#FF558F"
   lumo-primary-color-10pct: "rgba(37,129,172, .1)"
   lumo-primary-color-50pct: "rgba(37,129,172, .5)"
-  lumo-primary-text-color: "var(--primary-color)"
-  lumo-secondary-text-color: "var(--primary-color)"
+  lumo-primary-text-color: "#FF558F"
+  lumo-secondary-text-color: "#FF558F"
   lumo-shade: "var(--medium-grey-color)"
   lumo-shade-10pct: "rgba(41, 41, 41, .1)"
   lumo-shade-20pct: "rgba(41, 41, 41, .2)"
@@ -73,7 +77,8 @@ Pink Night:
   paper-toggle-button-unchecked-button-color: "hsl(var(--huesat) 25%)"
   primary-background-color: "#131313"
   primary-color: "#FF558F"
-  primary-text-color: "hsl(var(--huesat) 90%)"
+  #primary-text-color: "hsl(var(--huesat) 90%)"
+  primary-text-color: "#FFFFFF"
   secondary-background-color: "#050505"
   secondary-text-color: "hsl(var(--huesat) 80%)"
   shadow-elevation-16dp_-_box-shadow: "0px 0px 0px 0px hsl(var(--huesat) 25%)"
