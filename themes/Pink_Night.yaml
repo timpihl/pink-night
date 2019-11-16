@@ -45,7 +45,7 @@ Pink Night:
   lumo-tertiary-text-color: "rgba(255, 255, 255)"
   lumo-tint-5pct: "rgba(64, 64, 64)"
   medium-grey-color: "rgba(32, 32, 32)"
-  paper-button-ink-color: rgba(121, 125, 134)
+  paper-button-ink-color: "rgba(121, 125, 134)"
   paper-card-background-color: "rgba(25, 25, 25)"
   paper-card-header-color: "rgba(255, 255, 255, 0.9)"
   paper-dialog-background-color: "rgba(25, 25, 25)"
@@ -54,25 +54,25 @@ Pink Night:
   paper-font-headline_-_font-weight: "300"
   paper-font-headline_-_letter-spacing: "-0.5px"
   paper-grey-200: "rgba(25, 25, 25)"
-  paper-grey-50: rgba(121, 125, 134)
+  paper-grey-50: "rgba(121, 125, 134)"
   paper-input-container-color: "rgba(148, 151, 158)"
-  paper-item-icon-color: rgba(48, 50, 54)
-  paper-item-icon_-_color: rgba(48, 50, 54)
+  paper-item-icon-color: rgba(64, 64, 64)
+  paper-item-icon_-_color: rgba(64, 64, 64)
   paper-item-selected_-_background-color: "rgba(65, 65, 65)"
-  paper-item-selected_-_color: rgba(48, 50, 54)
-  paper-listbox-background-color: "#131313"
-  paper-listbox-color: rgba(121, 125, 134)
+  paper-item-selected_-_color: rgba(64, 64, 64)
+  paper-listbox-background-color: "rgba(19, 19, 19)"
+  paper-listbox-color: "rgba(121, 125, 134)"
   paper-slider-active-color: "rgba(255, 100, 155)"
-  paper-slider-container-color: rgba(68, 70, 75)
-  paper-slider-disabled-active-color: rgba(13, 47, 115)
-  paper-slider-disabled-secondary-color: rgba(13, 47, 115)
+  paper-slider-container-color: "rgba(68, 70, 75)"
+  paper-slider-disabled-active-color: "rgba(13, 47, 115)"
+  paper-slider-disabled-secondary-color: "rgba(13, 47, 115)"
   paper-slider-knob-color: "rgba(255, 100, 155)"
-  paper-slider-knob-start-color: rgba(13, 47, 115)
+  paper-slider-knob-start-color: "rgba(13, 47, 115)"
   paper-slider-pin-color: "rgba(255, 100, 155)"
   paper-slider-secondary-color: "rgba(255, 255, 255, 0.9)"
   paper-tab-ink: "rgba(175, 177, 182)"
   paper-tabs-selection-bar-color: "rgba(65, 65, 65)"
-  paper-toggle-button-checked-bar-color: "hsl(var(--huesat) 25%)"
+  paper-toggle-button-checked-bar-color: "rgba(61, 63, 67)"
   paper-toggle-button-checked-button-color: "rgba(255, 100, 155)"
   paper-toggle-button-unchecked-bar-color: "rgba(13, 13, 13)"
   paper-toggle-button-unchecked-button-color: "rgba(180, 180, 180)"
@@ -81,8 +81,8 @@ Pink Night:
   primary-text-color: "rgba(255, 255, 255)"
   secondary-background-color: "rgba(5, 5, 5)"
   secondary-text-color: "rgba(255, 255, 255, 0.8)"
-  shadow-elevation-16dp_-_box-shadow: "0px 0px 0px 0px hsl(var(--huesat) 25%)"
-  shadow-elevation-2dp_-_box-shadow: "0px 0px 0px 0px hsl(var(--huesat) 10%)"
+  shadow-elevation-16dp_-_box-shadow: "0px 0px 0px 0px rgba(61, 63, 67)"
+  shadow-elevation-2dp_-_box-shadow: "0px 0px 0px 0px rgba(24, 25, 27)"
   sidebar-icon-color: "rgba(255, 100, 155, 0.5)"
   sidebar-text-color: "rgba(255, 255, 255, 0.9)"
   sidebar-text_-_color: "rgba(255, 255, 255, 0.9)"
