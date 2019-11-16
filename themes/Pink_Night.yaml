@@ -90,7 +90,7 @@ Pink Night:
   table-row-background-color: "rgba(255, 255, 255, 0.12)"
   text-primary-color: "rgba(255, 255, 255, 0.9)"
 
-  ha-card-header-font-weight: 300
+  ha-card-header-font-weight: "300"
 
 # CCH Styling
 
