@@ -60,7 +60,7 @@ Pink Night:
   paper-item-icon_-_color: rgba(64, 64, 64)
   paper-item-selected_-_background-color: "rgba(65, 65, 65)"
   paper-item-selected_-_color: rgba(64, 64, 64)
-  paper-listbox-background-color: "rgba(19, 19, 19)"
+  paper-listbox-background-color: "rgba(10, 10, 10)"
   paper-listbox-color: "rgba(121, 125, 134)"
   paper-slider-active-color: "rgba(255, 100, 155)"
   paper-slider-container-color: "rgba(68, 70, 75)"
@@ -91,6 +91,7 @@ Pink Night:
   text-primary-color: "rgba(255, 255, 255, 0.9)"
 
   ha-card-header-font-weight: "300"
+  ha-card-box-shadow: "0px 0px 10px -2px rgba(255, 100, 155)"
 
 # CCH Styling
 
