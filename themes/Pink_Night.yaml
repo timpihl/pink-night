@@ -76,7 +76,7 @@ Pink Night:
   paper-toggle-button-checked-button-color: "rgba(255, 100, 155)"
   paper-toggle-button-unchecked-bar-color: "rgba(13, 13, 13)"
   paper-toggle-button-unchecked-button-color: "rgba(180, 180, 180)"
-  primary-background-color: "rgba(19, 19, 19)"
+  primary-background-color: "rgba(10, 10, 10)"
   primary-color: "rgba(255, 100, 155)"
   primary-text-color: "rgba(255, 255, 255)"
   secondary-background-color: "rgba(5, 5, 5)"
